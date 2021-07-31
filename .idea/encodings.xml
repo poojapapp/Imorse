@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/interfaces/InterfaceConstants.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/retrofit/RetroClientInstance.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/retrofit/RetrofitCallback.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/retrofit/apiInterfaces/ApiInterface.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/sharedpreferences/SharedPreferencesManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/utilities/InternetUtilities.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/utilities/KEY.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/imorse/imorsedemo/utilities/ProgressDialogUtility.java" charset="windows-1251" />
+  </component>
+</project>
